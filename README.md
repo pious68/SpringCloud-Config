@@ -1,2 +1,5 @@
-# SpringCloud-Config
-The SpringCloud Config Repository AtGuiGu.
+# springcloud-config
+springcloud-config的配置中心
+
+springcloud-config的配置中心
+
